@@ -1,0 +1,5 @@
+service\FitnessController.class
+service\FitnessRepository.class
+service\Member_info.class
+service\Start.class
+service\Setup.class
